@@ -180,3 +180,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 v0.0.1/.vscode/settings.json
+/v0.0.1/event_logs
